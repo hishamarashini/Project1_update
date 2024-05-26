@@ -1,6 +1,8 @@
 # Elite Professional Cosmetics 
 
-This project is a blog to describe the products that this company offer to the customers, and a special brand that they have the franchise.
+The Elite cosmetic describes the industry that manufactures and distributes cosmetic products. These include colour cosmetics, like foundation and mascara, skincare such as moisturisers and cleansers, haircare such as shampoos, conditioners and hair colours, and Antiaging creams. 
+
+![alt text](READ_ME_images\Display_for_responsive.png)
 
 ### Table of contents  
 - Home page, that describe to stages of treatments that is used

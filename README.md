@@ -1,4 +1,4 @@
-# Elite Professional Cosmatics 
+# Elite Professional Cosmetics 
 
 This project is a blog to describe the products that this company offer to the customers, and a special brand that they have the franchise.
 

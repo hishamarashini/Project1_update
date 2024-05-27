@@ -47,6 +47,8 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
     - No errores were returned when passing through the official (Jigsaw) validator
 - Accessibility
     - I confirmed that the colors and the fonts chosen are easy to read and accessible by running the the lighthouse in devtools.
+
+    
     ![Accessibilty](READ_ME_images/Lighthouse.jpg)
 
 

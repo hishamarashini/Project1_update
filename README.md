@@ -19,7 +19,8 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 ![Header_img](READ_ME_images/Header.jpg)
 
 
-### The About
+### The About 
+[ABOUT](https://hishamarashini.github.io/Project1_update/about.html)
 
  - The About section gives details of the services and type of special treatrment that are done in company.
 
@@ -27,6 +28,7 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 
 
 ### The Contact Us
+[CONTACT US](https://hishamarashini.github.io/Project1_update/contactus.html)
 - The contact us section encourage users to get in contact and provide name and e-mail address.
 - The contact us section has a fiels that give the users possibelity to write a message.
 

@@ -1,5 +1,7 @@
 # Elite Professional Cosmetics 
 
+[ELITE](https://hishamarashini.github.io/Project1_update/)
+
 The Elite cosmetic describes the industry that manufactures and distributes cosmetic products. These include colour cosmetics, like foundation and mascara, skincare such as moisturisers and cleansers, haircare such as shampoos, conditioners and hair colours, and Antiaging creams. 
 
 ![Display](READ_ME_images/Display_for_responsive.jpg)
@@ -42,13 +44,13 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 
 ### Validator Testing
 - HTML 
-    - No errores were returned when passing through the official W3C validator
+    - No errors were returned when passing through the official W3C validator
 - CSS
-    - No errores were returned when passing through the official (Jigsaw) validator
+    - No errors were returned when passing through the official (Jigsaw) validator
 - Accessibility
     - I confirmed that the colors and the fonts chosen are easy to read and accessible by running the the lighthouse in devtools.
 
-    
+
     ![Accessibilty](READ_ME_images/Lighthouse.jpg)
 
 

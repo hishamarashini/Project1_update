@@ -21,7 +21,7 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 
 ### The About 
 [ABOUT](https://hishamarashini.github.io/Project1_update/about.html)
-<a href="https://hishamarashini.github.io/Project1_update/about.html">ABOUT</a>
+
 
  - The About section gives details of the services and type of special treatrment that are done in company.
 
@@ -48,13 +48,15 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 ### Validator Testing
 - HTML 
     - No errors were returned when passing through the official W3C validator
+    ![W3V](READ_ME_images/W3Vcheck.JPG)
 - CSS
     - No errors were returned when passing through the official (Jigsaw) validator
+    ![Jig](READ_ME_images/Jigsaw_validator.JPG)
 - Accessibility
     - I confirmed that the colors and the fonts chosen are easy to read and accessible by running the the lighthouse in devtools.
 
 
-    ![Accessibilty](READ_ME_images/Lighthouse.jpg)
+    ![Accessibilty](READ_ME_images/light_house.JPG)
 
 
 

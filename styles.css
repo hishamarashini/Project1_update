@@ -301,7 +301,7 @@ footer {
         align-content: center;
     }
 }
-@media only screen and (max-device-width: 600px) {
+@media only screen and (min-width: 600px) {
     .scroll {
       background-attachment: scroll;
       width: 100%;

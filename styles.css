@@ -14,7 +14,7 @@ body {
 
 /* Header */
 header {
-    background-image: url("images/web_banner.jpg");
+    background-image: url("images/web_banner.png");
     background-position: center;
     background-repeat: no-repeat;
     padding: 0 1rem;
@@ -306,6 +306,9 @@ footer {
       background-attachment: scroll;
       width: 100%;
     }
+    .container1 {
+        text-align: center;
+    }
   }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -388,6 +391,9 @@ footer {
         display: flex;
         justify-content: space-evenly;
         width: 100%;
+    }
+    .container1 {
+        font-size: 150%;
     }
     footer {
         display: flex;

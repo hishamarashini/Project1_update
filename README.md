@@ -21,6 +21,7 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 
 ### The About 
 [ABOUT](https://hishamarashini.github.io/Project1_update/about.html)
+<a href="https://hishamarashini.github.io/Project1_update/about.html">ABOUT</a>
 
  - The About section gives details of the services and type of special treatrment that are done in company.
 

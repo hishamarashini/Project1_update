@@ -40,6 +40,14 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 - The footer section includes media icon to users can find Elite proffessional cometics on Facebook, Instagram, and Youtube
 ![Footer](READ_ME_images/Footer.jpg)
 
+### MOCK-UP
+HOME
+<img src="READ_ME_images/Home_wireframe.png" alt="HOME" width="200"/> 
+ABOUT 
+<img src="READ_ME_images/about_wireframe.png" alt="ABOUT" width="200"/>
+CONTACT US 
+<img src="READ_ME_images/contact_us_wireframe.png" alt="CONTACT US" width="200"/>
+
 ### Testing
 - I tested the pages work in different browsers, Chrome, Firefox, and Edge
 - I confirmed the the project is responsive, looks good and functions on all standared screens sizes.

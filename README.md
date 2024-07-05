@@ -53,7 +53,7 @@ CONTACT US
 <img src="READ_ME_images/firefox_browser.JPG" alt="firefox" width="150"/>
 and Edge
 <img src="READ_ME_images/EDGE.JPG" alt="firefox" width="150"/>
-
+- While testing in lighthouse i faced low performance because of high resolution images, that takes time for loading pages.
 - I confirmed the the project is responsive, looks good and functions on all standared screens sizes.
 - I confirmed that the navigation, header, about, and contact us are allreadable.
 

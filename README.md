@@ -67,6 +67,10 @@ CONTACT US
     ![Accessibilty](READ_ME_images/light_house.JPG)
 
     ### Deployment
+    In the first I worked in VS studio on desktop and I commit the project as repositry in github.
+    - After I commit each change, i navigate to setting and choose source section drop-down, i select main root 
+    - After i click save it is automaticly indecate successful deployment 
+    The live link is [Project1_update](https://hishamarashini.github.io/Project1_update/)
 
 
 

@@ -66,5 +66,15 @@ CONTACT US
 
     ![Accessibilty](READ_ME_images/light_house.JPG)
 
+    ### Deployment
+
+
+
+    ### Content
+    - The icons for social media were taken from [Fontawsome](https://fontawesome.com/)
+
+    ### Media
+    - The photos and the logo is made and designed by me Hisham Alrashini
+
 
 

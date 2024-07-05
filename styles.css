@@ -325,7 +325,7 @@ footer {
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 1440px) {
     header {
-        background-image: url("images/web_banner.jpg");
+        background-image: url("images/web_banner.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;

@@ -6,20 +6,20 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 
 ![Display](READ_ME_images/Display_for_responsive.jpg)
 
-### Features
+#### Features
 >Navigation
 - At the top of the page, there is a image with centered Logo of Elite professional cosmetics
 - The navigation links are to the right:Home, About, and contact us.
 - Tha navigation is in a font that looks like the text in the website with same background hovering and red color for active
 - The navigation is easy to use and clear for users.
-### The Header
+#### The Header
 - The Header shows the name of company with a centered Logo
 - The header describes and give hints of the products that is promoting in the page.
 
 ![Header_img](READ_ME_images/Header.jpg)
 
 
-### The About 
+#### The About 
 [ABOUT](https://hishamarashini.github.io/Project1_update/about.html)
 
 
@@ -28,19 +28,19 @@ The Elite cosmetic describes the industry that manufactures and distributes cosm
 ![About](READ_ME_images/About.jpg)
 
 
-### The Contact Us
+#### The Contact Us
 [CONTACT US](https://hishamarashini.github.io/Project1_update/contactus.html)
 - The contact us section encourage users to get in contact and provide name and e-mail address.
-- The contact us section has a fiels that give the users possibelity to write a message.
+- The contact us section has a files that give the users possibelity to write a message.
 
 ![Contact US](READ_ME_images/Contact_us.jpg)
 
-### The Footer
-- The footer section has the address and e-mailfor users can contact the company
-- The footer section includes media icon to users can find Elite proffessional cometics on Facebook, Instagram, and Youtube
+#### The Footer
+- The footer section has the address and e-mail for users can contact the company
+- The footer section includes media icon to users can find Elite proffessional cometics on Facebook, Instagram, and Youtube.
 ![Footer](READ_ME_images/Footer.jpg)
 
-### MOCK-UP
+#### MOCK-UP
 HOME
 <img src="READ_ME_images/Home_wireframe.png" alt="HOME" width="200"/> 
 ABOUT 
@@ -48,16 +48,16 @@ ABOUT
 CONTACT US 
 <img src="READ_ME_images/contact_us_wireframe.png" alt="CONTACT US" width="200"/>
 
-### Testing
-- I tested the pages work in different browsers, Chrome, Firefox, 
+#### Testing
+- I tested the pages in different browsers, Chrome, Firefox, 
 <img src="READ_ME_images/firefox_browser.JPG" alt="firefox" width="150"/>
-and Edge
+and Edge and they all working.
 <img src="READ_ME_images/EDGE.JPG" alt="firefox" width="150"/>
-- While testing in lighthouse i faced low performance because of high resolution images, that takes time for loading pages.
-- I confirmed the the project is responsive, looks good and functions on all standared screens sizes.
+- While testing in lighthouse i faced low performance because of high resolution images, that takes time for loading pages untile i solved it.
+- I confirmed that the project is responsive, looks good and functions on all standared screens sizes.
 - I confirmed that the navigation, header, about, and contact us are allreadable.
 
-### Validator Testing
+#### Validator Testing
 - HTML 
     - No errors were returned when passing through the official W3C validator
     Home
@@ -75,20 +75,20 @@ and Edge
 - Accessibility
     - I confirmed that the colors and the fonts chosen are easy to read and accessible by running the the lighthouse in devtools.
 
-<img src="READ_ME_images/light_house.JPG" alt="lighthouse" width="200"/>
+    <img src="READ_ME_images/light_house.JPG" alt="lighthouse" width="200"/>
 
-    ### Deployment
+    #### Deployment
     In the first I worked in VS studio on desktop and I commit the project as repositry in github.
-    - After I commit each change, i navigate to setting and choose source section drop-down, i select main root 
-    - After i click save it is automaticly indecate successful deployment 
+    - After I commit each change, i navigate to setting and choose source section drop-down, I selected main root 
+    - After clicking save it is automaticly indecate successful deployment 
     The live link is [Project1_update](https://hishamarashini.github.io/Project1_update/)
 
 
 
-    ### Content
+    #### Content
     - The icons for social media were taken from [Fontawsome](https://fontawesome.com/)
 
-    ### Media
+    #### Media
     - The photos and the logo is made and designed by me Hisham Alrashini
 
 

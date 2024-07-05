@@ -49,7 +49,11 @@ CONTACT US
 <img src="READ_ME_images/contact_us_wireframe.png" alt="CONTACT US" width="200"/>
 
 ### Testing
-- I tested the pages work in different browsers, Chrome, Firefox, and Edge
+- I tested the pages work in different browsers, Chrome, Firefox, 
+<img src="READ_ME_images/firefox_browser.JPG" alt="firefox" width="150"/>
+and Edge
+<img src="READ_ME_images/EDGE.JPG" alt="firefox" width="150"/>
+
 - I confirmed the the project is responsive, looks good and functions on all standared screens sizes.
 - I confirmed that the navigation, header, about, and contact us are allreadable.
 
@@ -67,12 +71,11 @@ CONTACT US
 
 - CSS
     - No errors were returned when passing through the official (Jigsaw) validator
-    ![Jig](READ_ME_images/Jigsaw_validator.JPG)
+    <img src="READ_ME_images/Jigsaw_validator.JPG" alt="CSS_jigsaw" width="200"/>
 - Accessibility
     - I confirmed that the colors and the fonts chosen are easy to read and accessible by running the the lighthouse in devtools.
 
-
-    ![Accessibilty](READ_ME_images/light_house.JPG)
+<img src="READ_ME_images/light_house.JPG" alt="lighthouse" width="200"/>
 
     ### Deployment
     In the first I worked in VS studio on desktop and I commit the project as repositry in github.

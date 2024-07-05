@@ -56,7 +56,15 @@ CONTACT US
 ### Validator Testing
 - HTML 
     - No errors were returned when passing through the official W3C validator
-    ![W3V](READ_ME_images/W3Vcheck.JPG)
+    Home
+    <img src="READ_ME_images/W3Vcheck.JPG" alt="Home" width="150"/>
+    ABOUT
+    <img src="READ_ME_images/About_validator.JPG" alt="About" width="150"/>
+    Contact Us
+    <img src="READ_ME_images/contact_us_validator.JPG" alt="Contact us" width="150"/>
+
+    
+
 - CSS
     - No errors were returned when passing through the official (Jigsaw) validator
     ![Jig](READ_ME_images/Jigsaw_validator.JPG)
